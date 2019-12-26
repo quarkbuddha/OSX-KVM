@@ -55,3 +55,11 @@
 * Niklas Korz (niklaskorz) - Stop using brctl
 
 * Mike Bybee (stereoplegic) - Higher resolution documentation
+
+* Yarkhan - Passthrough for making iDevices work
+
+* Yu-Chen Lin (npes87184) - Virtio and qemu-img notes
+
+* Wen-He - Catalina related fixes
+
+* Alexander Galato (alet) - OVMF build documentation fixes
